@@ -7,7 +7,7 @@ export const projects: Project[] = [
     description: "化粧水スプレーの商品販促用LPを制作いたしました",
     image: "/img/ccs.png",
     tags: ["Astro.js", "HTML", "CSS", "Gsap"],
-    demoUrl: "https://coco-clear-spray.com/",
+    demoUrl: "https://cococlearspray.com/",
     featured: false
   },
   {
